@@ -9,3 +9,10 @@ The dataset used in this project is the "Credit Card Fraud Detection" dataset fr
 2. Sign in to your Kaggle account (or create one if you don’t have one).
 3. Click on the **"Download"** button to download the dataset as a ZIP file.
 4. Extract the ZIP file, and place the `creditcard.csv` file in the **same directory** as your Jupyter notebook.
+
+## Installation
+
+To install the required dependencies, run:
+
+```bash
+pip install -r requirements.txt
