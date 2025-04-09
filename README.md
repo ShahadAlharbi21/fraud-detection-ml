@@ -1,4 +1,7 @@
 # fraud-detection-ml
+
+This project is about using machine learning for **credit card fraud detection**.
+
 ### Dataset
 The dataset used in this project is the "Credit Card Fraud Detection" dataset from Kaggle. You can find and download it from [here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 
